@@ -1,17 +1,7 @@
 # HuggingFace-Upload
 HuggingFace에 model, tokenizer 업로드하는 template repository
 
-## BMI-Lab HuggingFace Organization
-
-<div align="center">
-<img src="https://github.com/augustinLib/JavaScript-React-Study/assets/74291999/39b4b223-1ad7-4ca7-96bc-a67a6d6d5829" width=100%>
-</div>
-
 <br>
-
-- [BMI-Lab HuggingFace](https://huggingface.co/BMI-Lab)
-- [Join Link](https://huggingface.co/organizations/BMILab/share/aSPIJgCrYfrmLkZYKLcrWyhMBXmYqcMzQB)
-
 
 ## How to use
 Python 버전과 Jupyter Notebook 버전으로 구성됩니다.
