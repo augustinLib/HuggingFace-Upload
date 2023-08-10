@@ -23,4 +23,4 @@ python upload.py --model_type lightning \
 - `model_type`: `lightning` or `transformers`
 - `tokenizer_path`: tokenizer의 `vocab.txt`가 저장된 경로 (파일 경로가 아닌 디렉토리 경로)
 - `checkpoint_path`: checkpoint가 저장된 경로 (라이트닝 한정)
-- `repo_address`: 업로드할 HuggingFace repository의 주소 (Ex. BMILab/TCR-BERT)
+- `repo_address`: 업로드할 HuggingFace repository의 주소 (Ex. meta-llama/Llama-2-7b)
